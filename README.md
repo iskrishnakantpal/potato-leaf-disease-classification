@@ -36,7 +36,7 @@ It includes model training, a backend API, a responsive web UI, and a mobile app
 | Component      | Status     | URL                                                                 |
 |----------------|------------|----------------------------------------------------------------------|
 | 🧠 Backend API  | ✅ Deployed | On Railway.com |
-| 🌐 WebApp UI    | ✅ Live      | [Preview](https://iskrishnakantpal.github.io/potaleaf-scan/)               |
+| 🌐 WebApp UI    | ✅ Live      | [Web Preview](https://iskrishnakantpal.github.io/potaleaf-scan/)               |
 | 📱 Mobile App   | ✅ Live       | Download Link                                                    |
 
 ---
