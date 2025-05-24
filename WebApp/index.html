@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PotaLeaf Scan</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <div class="content-wrapper">
+      <div class="upload-section" id="uploadSection">
+        <h1 id="pageTitle">Potato Leaf Disease Detector</h1>
+
+        <div class="drop-box" onclick="document.getElementById('imageInput').click()">
+          <input type="file" id="imageInput" hidden accept="image/*" />
+          <p>Drop or click to upload an image</p>
+          <button>Choose File</button>
+        </div>
+
+        <h1 class="section-title" id="uploadedTitle" style="display:none;">Uploaded Image</h1>
+
+        <div class="image-preview" id="imageContainer" style="display:none;">
+          <img id="preview" src="https://img.icons8.com/ios/100/image.png" alt="Leaf Preview" />
+        </div>
+
+        <button class="predict-btn" id="predictBtn" style="display:none;" onclick="predict()">Predict</button>
+		<button class="clear-btn" id="clearBtn" style="display:none;" onclick="clearAll()">Clear</button>
+
+      </div>
+
+      <div class="result-section" id="resultBox" style="display:none;">
+        <h1 class="result-title">Prediction</h1>
+        <p><strong>Disease Name:</strong> <span id="diseaseName"></span></p>
+        <p><strong>Confidence:</strong> <span id="confidence"></span></p>
+        <p><strong>About <span id="aboutLabel"></span>:</strong></p>
+        <div id="description">-</div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    © 2025 PotaLeaf Scan — Made with 🍀
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
