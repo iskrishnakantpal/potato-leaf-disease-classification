@@ -19,9 +19,9 @@ It includes model training, a backend API, a responsive web UI, and a mobile app
 
 ---
 
-<pre>## 📂 Project Structure
+## 📂 Project Structure
 
-potato-leaf-scan/
+<pre>potato-leaf-scan/
 │
 ├── API/ # Flask backend with TFLite model
 ├── ModelTraining/ # Dataset + model training notebook
@@ -47,10 +47,10 @@ Contributions are welcome!
 
 If you'd like to improve this project — whether it's fixing bugs, enhancing UI, or expanding features — feel free to contribute by following these steps:
 
-- 1. Fork this repository
-- 2. Create a new branch
-- 3. Commit your changes
-- 4. Open a pull request
+<pre>1. Fork this repository
+2. Create a new branch
+3. Commit your changes
+4. Open a pull request</pre>
 
 ---
 
