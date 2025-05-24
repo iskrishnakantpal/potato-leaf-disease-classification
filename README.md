@@ -21,13 +21,13 @@ It includes model training, a backend API, a responsive web UI, and a mobile app
 
 <pre>## 📂 Project Structure
 
-'''potato-leaf-scan/
+potato-leaf-scan/
 │
 ├── API/ # Flask backend with TFLite model
 ├── ModelTraining/ # Dataset + model training notebook
 ├── WebApp/ # HTML/CSS/JS frontend
 ├── MobileApp/ # Android (Kotlin) app
-└── README.md # You're here!'''
+└── README.md # You're here!,</pre>
 
 ---
 
