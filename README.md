@@ -37,7 +37,7 @@ It includes model training, a backend API, a responsive web UI, and a mobile app
 |----------------|------------|----------------------------------------------------------------------|
 | Backend API  | ✅ Deployed | [Railway](https://railway.com/) |
 | WebApp UI    | ✅ Live      | [Web Preview](https://iskrishnakantpal.github.io/potaleaf-scan/) |
-| Mobile App   | ✅ Live       | [Download App](https://drive.google.com/file/d/17bDoL4DaJ7HWxU8feovz03jAtIrbci9C/view?usp=sharing) |
+| Mobile App   | ✅ Live       | [Download App](https://github.com/iskrishnakantpal/potato-leaf-disease-classification/blob/main/MobileApp/PotaLeaf%20Sacn.apk) |
 
 ---
 
