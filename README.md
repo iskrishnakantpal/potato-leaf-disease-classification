@@ -7,19 +7,19 @@ It includes model training, a backend API, a responsive web UI, and a mobile app
 
 ## Features
 
-- 🧠 CNN model trained on the PlantVillage dataset
-- 🌿 Detects:
+- CNN model trained on the PlantVillage dataset
+- Detects:
   - Potato Early Blight
   - Potato Late Blight
   - Healthy Leaves
-- 📊 Confidence score with Hindi descriptions
-- 🌐 Responsive web frontend
-- ⚙️ Flask API backend (deployed on Railway)
-- 📱 Android app (Kotlin-based, WIP)
+- Confidence score with Hindi descriptions
+- Responsive web frontend
+- Flask API backend (deployed on Railway)
+- Android app (Kotlin-based, WIP)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 <pre>potato-leaf-scan/
 │
@@ -31,17 +31,17 @@ It includes model training, a backend API, a responsive web UI, and a mobile app
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 | Component      | Status     | URL                                                                 |
 |----------------|------------|----------------------------------------------------------------------|
-| 🧠 Backend API  | ✅ Deployed | [Railway](https://railway.com/) |
-| 🌐 WebApp UI    | ✅ Live      | [Web Preview](https://iskrishnakantpal.github.io/potaleaf-scan/) |
-| 📱 Mobile App   | ✅ Live       | Download Link |
+| Backend API  | ✅ Deployed | [Railway](https://railway.com/) |
+| WebApp UI    | ✅ Live      | [Web Preview](https://iskrishnakantpal.github.io/potaleaf-scan/) |
+| Mobile App   | ✅ Live       | [Download App](https://drive.google.com/u/0/uc?id=17bDoL4DaJ7HWxU8feovz03jAtIrbci9C&export=download) |
 
 ---
 
-## 🙋‍♀️ Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -54,23 +54,19 @@ If you'd like to improve this project — whether it's fixing bugs, enhancing UI
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
 This project is developed by:
 
-- **Krishnakant Pal**  
-  Model Training & Dataset Preprocessing   
+- **Krishnakant Pal**    
   🔗 [GitHub](https://github.com/iskrishnakantpal)
 
-- **Amisha Raj**  
-  Model Training & Dataset Preprocessing  
+- **Amisha Raj**    
+  🔗 [GitHub](https://github.com/AmishaRaj07)
+
+- **Rishabh Singh**    
   🔗 [GitHub](https://github.com/)
 
-- **Rishabh Singh**  
-  Web Frontend Developer  
-  🔗 [GitHub](https://github.com/)
-
-- **Pranshi Singal**  
-  Mobile App Developer (Android)  
+- **Pranshi Singal**    
   🔗 [GitHub](https://github.com/)
 
