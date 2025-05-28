@@ -5,7 +5,7 @@ It includes model training, a backend API, a responsive web UI, and a mobile app
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🧠 CNN model trained on the PlantVillage dataset
 - 🌿 Detects:
