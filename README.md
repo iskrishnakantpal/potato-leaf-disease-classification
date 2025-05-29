@@ -70,3 +70,6 @@ This project is developed by:
 - **Pranshi Singal**    
   🔗 [GitHub](https://github.com/)
 
+### Supervised by:
+- **Panchanan Pyare Singh**    
+  🔗 [GitHub](https://github.com/iskrishnakantpal)
