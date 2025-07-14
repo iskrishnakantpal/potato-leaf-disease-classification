@@ -65,11 +65,11 @@ This project is developed by:
   🔗 [GitHub](https://github.com/AmishaRaj07)
 
 - **Rishabh Singh**    
-  🔗 [GitHub](https://github.com/)
+  🔗 [GitHub](https://github.com/RISHABH15199909)
 
 - **Pranshi Singal**    
-  🔗 [GitHub](https://github.com/)
+  🔗 [GitHub](https://github.com/pranshi09)
 
 ### Supervised by:
 - **Panchanan Pyare Singh**    
-  🔗 [GitHub](https://github.com/iskrishnakantpal)
+  🔗 [GitHub](https://github.com/)
